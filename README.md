@@ -39,7 +39,7 @@ The system uses **LangGraph** to coordinate three specialized agent personas:
 | **Frontend** | Next.js 15, Tailwind CSS, Framer Motion |
 | **Communication** | Slack SDK, Jira REST API, Figma API |
 
-## 🚀 Quick Start (Replit / Local)
+## 🚀 Quick Start (Local)
 
 1. **Clone the Repo:**
    ```bash
